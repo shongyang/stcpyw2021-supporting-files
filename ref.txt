@@ -1,0 +1,4 @@
+https://github.com/masonprotsman/Blender_Threejs_tutorial
+https://threejs.org/examples/webgl_loader_gltf.html
+https://creazilla.com/nodes/67214-inca-aryballos-from-northern-chile-3d-model
+https://www.youtube.com/watch?v=HiegEfkenXA&ab_channel=DesignCourse
